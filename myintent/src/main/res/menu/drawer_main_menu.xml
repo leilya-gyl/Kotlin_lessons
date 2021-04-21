@@ -17,12 +17,4 @@
             android:icon="@drawable/ic_fish"/>
     </group>
 
-    <item android:title="Разное">
-        <menu>
-            <item android:title="Properties"/>
-            <item android:title="Help"/>
-
-        </menu>
-
-    </item>
 </menu>

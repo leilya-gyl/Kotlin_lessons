@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyIntent</string>
+    <string name="fish">Рыба</string>
+    <string name="nazh">Наживка</string>
+    <string name="snas">Снасти</string>
+    <string name="history">Рыбацкие стории</string>
 </resources>

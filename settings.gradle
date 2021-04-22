@@ -1,3 +1,4 @@
+include ':mycompas'
 include ':myintent'
 include ':app'
 rootProject.name = "Kotlin_lesson"

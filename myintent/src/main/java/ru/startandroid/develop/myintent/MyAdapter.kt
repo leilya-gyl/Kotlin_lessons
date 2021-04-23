@@ -29,8 +29,8 @@ class MyAdapter(listArray: ArrayList<ListItem>, context: Context): RecyclerView.
                 Toast.makeText(context, "Pressed ${tvTitle.text}", Toast.LENGTH_SHORT).show()
                 val intent = Intent(context, ContentActivity::class.java).apply {
                     putExtra("title", tvTitle.text.toString())
-                    putExtra("content", listItem.contentText.toString())
-                    putExtra("image", listItem.image_id)
+                    //putExtra("content", listItem.contentText.toString())
+                    //putExtra("image", listItem.image_id)
                 }
                 context.startActivity(intent)
             }

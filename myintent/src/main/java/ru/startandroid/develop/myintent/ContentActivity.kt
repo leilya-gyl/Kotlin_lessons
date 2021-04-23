@@ -15,6 +15,7 @@ class ContentActivity: AppCompatActivity() {
         myContent.text = intent.getStringExtra("content")
         im.setImageResource(intent.getIntExtra("image", R.drawable.som))*/
 
-        webView.loadUrl("file:///android_asset/som.html")
+        var filetitle = intent.getStringExtra("title")
+        webView.loadUrl("file:///android_asset/$filetitle.html")
     }
 }

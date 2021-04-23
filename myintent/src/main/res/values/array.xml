@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="fish">
-        <item>Сом</item>
-        <item>Налим</item>
-        <item>Щука</item>
-        <item>Карп</item>
+        <item>som</item>
+        <item>nalim</item>
+        <item>schuka</item>
+        <item>karp</item>
     </string-array>
     <string-array name="fish_content">
         <item>Обыкнове́нный сом, или европе́йский сом (лат. Silurus glanis) — крупная пресноводная бесчешуйчатая рыба семейства сомовых (Siluridae).

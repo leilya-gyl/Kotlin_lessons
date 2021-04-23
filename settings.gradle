@@ -1,3 +1,5 @@
+include ':lessonsqlite'
+include ':alertdialogexample'
 include ':mycompas'
 include ':myintent'
 include ':app'

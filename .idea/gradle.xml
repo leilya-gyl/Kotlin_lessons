@@ -11,7 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alertdialogexample" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lessonsqlite" />
             <option value="$PROJECT_DIR$/mycompas" />
             <option value="$PROJECT_DIR$/myintent" />
           </set>

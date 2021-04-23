@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_item">
+        <item>Dogs</item>
+        <item>Cats</item>
+        <item>Ice-cream</item>
+        <item>myProject</item>
+    </string-array>
+</resources>
